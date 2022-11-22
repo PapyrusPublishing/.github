@@ -17,3 +17,6 @@ Be sure to have the following list checked before contacting.
 
 ## ISBN
 [International Standard Book Number](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn)
+
+## How-to Structure Your Book
+[Template folder](https://github.com/PapyrusPublishing/this-is-a-template)

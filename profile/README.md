@@ -1,4 +1,4 @@
-# PAPYRUS PUBLISHING
+# PAPYRUS PUBLISHING&trade;
 This is an open-source publishing organization for technical literature
 
 ## Headquartes:
@@ -13,3 +13,7 @@ Be sure to have the following list checked before contacting.
 [2] - Audience: Who is the target audience? How does the book aggregate to the (community) them?
 
 [3] - Writer: Who is the writer (you)? What is the writer's goals in writing this book?
+
+
+## ISBN
+[International Standard Book Number](https://www.myidentifiers.com/identify-protect-your-book/isbn/buy-isbn)
